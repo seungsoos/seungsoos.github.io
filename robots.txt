@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://seungsoos.github.io/sitemap.xml
 Sitemap: https://seungsoos.github.io/petiquette-web/sitemap.xml
+Sitemap: https://seungsoos.github.io/habit-rich-future/sitemap.xml
